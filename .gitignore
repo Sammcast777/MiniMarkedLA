@@ -1,0 +1,8 @@
+target/
+*.iml
+*.ipr
+*.iws
+nb-configuration.xml
+lib/
+nb-*.properties
+build.properties
