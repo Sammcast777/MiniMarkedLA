@@ -1,4 +1,4 @@
-package com.mycompany.minimarkedla.resources;
+package com.mycompany.mmlosandes.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

@@ -1,4 +1,4 @@
-package com.mycompany.minimarkedla;
+package com.mycompany.mmlosandes;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
